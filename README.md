@@ -1,4 +1,4 @@
-HTML-Basics-Tutorial-23---ID-Attribute
+HTML Basics Tutorial 23 - ID Attribute
 ======================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/-voQMXA_H6s
